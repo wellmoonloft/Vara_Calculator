@@ -1,8 +1,7 @@
 name: vara_calender
 description: A custom calculator widget use in flutter.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/wellmoonloft/Vara_Calculator
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
